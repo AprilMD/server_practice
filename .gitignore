@@ -1,0 +1,4 @@
+.bundle/
+.rspec
+vendor
+Gemfile.lock
